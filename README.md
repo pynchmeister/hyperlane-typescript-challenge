@@ -53,7 +53,7 @@ node dist/hyperlane-cli.js search --origin-chain <origin-chain>
 
 Replace <origin-chain> with the chain from which you want to search for messages.
 
-## Testing (TODO)
+## Testing
 
 To test the application, you can run the provided unit tests:
 
@@ -66,5 +66,3 @@ npm test
 ```shell
 npx tsx src/hyperlane-cli.ts send --origin-chain Ethereum --rpc-url https://mainnet.infura.io/v3/2KA4tLp4l5GmgGWRU07aeNwLkcJ --destination 0x1234567890123456789012345678901234567890 --message Hello, Hyperlane!
 ```
-
-# hyperplane-typescript-challenge

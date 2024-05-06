@@ -9,7 +9,7 @@ To install the Hyperlane Messaging CLI, follow these steps:
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/pynchmeister/hyperlane-messaging-cli.git
+git clone https://github.com/pynchmeister/hyperlane-typescript-challenge.git
 ````
 
 2. Navigate to the project directory:
